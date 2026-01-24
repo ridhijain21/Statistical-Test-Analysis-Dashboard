@@ -1,6 +1,7 @@
 # Statistical Test Analysis Dashboard
 
 A Streamlit dashboard for analyzing potential gender bias in academic faculty salary and promotion data.
+
 Link: https://statistical-test-analysis-dashboard.streamlit.app/
 
 Link to the report: [Potential gender bias in academic faculty salary and promotion data.pdf](https://github.com/ridhijain21/Statistical-Test-Analysis-Dashboard/blob/main/Potential%20gender%20bias%20in%20academic%20faculty%20salary%20and%20promotion%20data.pdf)
